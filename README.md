@@ -15,7 +15,7 @@ There are two datasets that have been used.
 ![](images/results_paderborn.png)
 
 
-To download the featurized data directly and for more information, visit our website, [manufacturingnet.io.](http://manufacturingnet.io/)
+To download the featurized data directly and for more information, visit our website, [ManufacturingNet.io.](http://manufacturingnet.io/)
 Please cite CWRU and Paderborn University if you use the raw data
 
 
