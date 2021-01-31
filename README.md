@@ -16,10 +16,10 @@ There are two datasets that have been used.
 
 
 To download the featurized data directly and for more information, visit our website, [ManufacturingNet.io.](http://manufacturingnet.io/)
-Please cite CWRU and Paderborn University if you use the raw data
+Please cite CWRU and Paderborn University if you use the raw data.
 
 
 
 
 
-The preprint is available here: https://arxiv.org/abs/2010.02146
+The preprint is available here: https://arxiv.org/abs/2010.02146.
