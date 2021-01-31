@@ -15,13 +15,11 @@ There are two datasets that have been used.
 ![](images/results_paderborn.png)
 
 
-# Built with
-This repository has been built with Scikit learn for Machine Learning algorithm. For Deep Learning methods, PyTorch is used.
-
- 
+To download the featurized data directly and for more information, visit our website, [manufacturingnet.io.](http://manufacturingnet.io/)
+Please cite CWRU and Paderborn University if you use the raw data
 
 
 
-# FaultNet
 
-This is the repository of FaultNet: A CNN for bearing fault detection and classification. The preprint is available here: https://arxiv.org/abs/2010.02146
+
+The preprint is available here: https://arxiv.org/abs/2010.02146
