@@ -5,8 +5,7 @@ The increased presence of advanced sensors on the production floors has led to t
 # Datasets
 There are two datasets that have been used. 1. Case Westerm Reserve University Bearing Dataset (CWRU), and 2. Paderborn University Dataset
 
-# CNN Architecture
-![alt text](https://github.com/BaratiLab/FaultNet/edit/main/images/cnn.png?raw=true)
+
 
 # Built with
 This repository has been built with Scikit learn for Machine Learning algorithm. For Deep Learning methods, PyTorch is used.
